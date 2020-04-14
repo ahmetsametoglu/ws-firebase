@@ -1,0 +1,7 @@
+{
+  "name": "ws-firebase",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
